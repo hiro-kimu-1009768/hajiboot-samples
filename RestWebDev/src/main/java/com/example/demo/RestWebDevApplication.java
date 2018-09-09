@@ -10,3 +10,4 @@ public class RestWebDevApplication {
 		SpringApplication.run(RestWebDevApplication.class, args);
 	}
 }
+
